@@ -2,3 +2,8 @@ body{
     font-family: 'Comic Sans MS', "Comic Sans", cursive;
     background-color: #4a412a;
 }
+
+
+h2 {
+    background: linear-gradient(39deg, rgba(248,30,35,1) 0%, rgba(255,53,0,1) 16%, rgba(255,250,24,1) 32%, rgba(86,222,25,1) 49%, rgba(81,206,255,1) 64%, rgba(82,23,166,1) 80%, rgba(231,6,222,1) 100%);
+}
